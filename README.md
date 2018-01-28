@@ -44,12 +44,18 @@ A list of blockchain and cryptocurrency resources
 
 #### A
 #### B
+
+* __BIP__ — Bitcoin Improvement Proposals
+
 #### C
 
 * __cold storage__ — keeping a reserve of bitcoin offline private keys are created and stored in a secure offline environment
 
 #### D
 #### E
+
+* __ECDSA__ — Elliptic Curve Digital Signature Algorithm
+
 #### F
 #### G
 #### H
@@ -64,13 +70,25 @@ A list of blockchain and cryptocurrency resources
 #### N
 #### O
 #### P
+
+* __P2PKH__ — Pay-to-Public-Key-Hash
+
 #### Q
 #### R
 #### S
+
+* __SVP__ — Simplified Payment Verification
+
 #### T
 #### U
+
+* __UTXO__ — Unspent Transaction Output
+
 #### V
 #### W
+
+* __WIF__ — Wallet Import Format
+
 #### X
 #### Y
 #### Z
@@ -105,3 +123,6 @@ A list of blockchain and cryptocurrency resources
 * [Ethereum 101](http://ethereum101.org/)
 * [Bitcoin](https://bitcoin.org)
 * [Ethereum](https://www.ethereum.org/)
+* [P2SH](https://p2sh.info)
+* [Bitcoin Resources](http://lopp.net/bitcoin.html)
+* [Bitnodes: Global Bitcoin Nodes Distribution](https://bitnodes.earn.com/)
