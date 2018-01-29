@@ -126,3 +126,4 @@ A list of blockchain and cryptocurrency resources
 * [P2SH](https://p2sh.info)
 * [Bitcoin Resources](http://lopp.net/bitcoin.html)
 * [Bitnodes: Global Bitcoin Nodes Distribution](https://bitnodes.earn.com/)
+* [Coindesk](https://www.coindesk.com)
