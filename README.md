@@ -43,25 +43,44 @@ A list of blockchain and cryptocurrency resources
 [Z](#z)
 
 #### A
+
+* __account__ — object containing an address, balance and nonce, and optional storage and code. An account can be a contract account or an EOA.
+
 #### B
 
 * __BCH__ — Bitcoin Cash
 * __BIP__ — Bitcoin Improvement Proposals
+* __blockchain__ — a distributed p2p database
 * __BTC__ — Bitcoin
 
 #### C
 
 * __coinbase transaction__ — the first transaction in a block, contains the reward for the miner, here the new bitcoin is created and added in the supply
 * __cold storage__ — keeping a reserve of bitcoin offline private keys are created and stored in a secure offline environment
+* __colored coins__ — using on-blockchain digital assets to represent custom currencies and financial instrument
 
 #### D
+
+* __DAO__ — decentralized autonomous organizations
+
 #### E
 
+* __Ethereum__ — The Ethereum network
+* __ether__ — the Ethereum currency
+* __ETH__ — the Ethereum currency
+* __EVM__ — Ethereum Virtual Machine
+* __EOA__ — Externally Owned Account
+* __EIP__ — Ethereum Improvement Proposals
 * __ECDSA__ — Elliptic Curve Digital Signature Algorithm
 * __ERC__ — Ethereum Request for Comments
+* __EEH__ — Ethereum currency unit
 
 #### F
 #### G
+
+* __genesis block__ — the first block in the blockchain
+* __gas__ — a virtual currency used in Ethereum to constrain computation of smart contracts, the fundamental network cost unit
+
 #### H
 #### I
 #### J
@@ -69,7 +88,9 @@ A list of blockchain and cryptocurrency resources
 #### L
 #### M
 
+* __miner__ — network node that finds valid proof of work for new blocks
 * __mempool__ — collection of all transaction data in a block that have been verified by bitcoin nodes but not yet confirmed
+* __message__ — internal transaction that is never serialized and only sent within the EVM
 
 #### N
 #### O
@@ -78,14 +99,20 @@ A list of blockchain and cryptocurrency resources
 
 #### P
 
+* __proof-of-stake__ — asks users to prove ownership of a certain amount of cryptocurrency
 * __P2PKH__ — Pay-to-Public-Key-Hash
 
 #### Q
 #### R
 #### S
 
-* __satoshi__ — The smallest unit of the bitcoin cryptocurrency (1 `BTC` = 100,000,000 `satoshis`)
+* __Satoshi Nakamoto__ — name used by the person or people who designed Bitcoin and created its original reference implementation
+* __satoshi__ — the smallest unit of the bitcoin cryptocurrency (1 `BTC` = 100,000,000 `satoshis`)
+* __Serpent__ — programming language with syntax similar to Python
+* __Solidity__ — programming language with syntax that is similar to Javascript, C++ or Java, most frequently used language for Ethereum smart contracts
 * __SVP__ — Simplified Payment Verification
+* __smart property__ — the ownership of an underlying physical device
+* __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules
 
 #### T
 #### U
@@ -93,9 +120,14 @@ A list of blockchain and cryptocurrency resources
 * __UTXO__ — Unspent Transaction Output
 
 #### V
+
+* __Viper__ — high-level programming language, similar to Serpent and with Python-like syntax
+
 #### W
 
+* __wallet__ — software that holds all your secret keys
 * __WIF__ — Wallet Import Format
+* __wei__ — smallest unit possible in Ethereum (`1 quintillion` = `10^18` = `1,000,000,000,000,000,000`)
 
 #### X
 #### Y
@@ -104,7 +136,7 @@ A list of blockchain and cryptocurrency resources
 ### Papers
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) — Satoshi Nakamoto
-* [Ethereum: White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum: Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) — Leslie Lamport
 * [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) — Leslie Lamport
 
