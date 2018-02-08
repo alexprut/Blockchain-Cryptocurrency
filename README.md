@@ -48,6 +48,7 @@ A list of blockchain and cryptocurrency resources
 
 #### B
 
+* __babbage__ — ether’s denominations (`10^3` wei)
 * __BCH__ — Bitcoin Cash
 * __BIP__ — Bitcoin Improvement Proposals
 * __blockchain__ — a distributed p2p database
@@ -76,16 +77,24 @@ A list of blockchain and cryptocurrency resources
 * __EEH__ — Ethereum currency unit
 
 #### F
+
+* __finney__ — ether’s denominations (`10^15` wei)
+
 #### G
 
-* __genesis block__ — the first block in the blockchain
 * __gas__ — a virtual currency used in Ethereum to constrain computation of smart contracts, the fundamental network cost unit
+* __genesis block__ — the first block in the blockchain
+* __Geth__ — an implementation of Ethereum written in the Go programming language
+* __grand__ — ether’s denominations (`10^21` wei)
 
 #### H
 #### I
 #### J
 #### K
 #### L
+
+* __lovelace__ — ether’s denominations (`10^6` wei)
+
 #### M
 
 * __miner__ — network node that finds valid proof of work for new blocks
@@ -99,11 +108,15 @@ A list of blockchain and cryptocurrency resources
 
 #### P
 
+* __Parity__ — an implementation of Ethereum written in the Rust programming language
 * __proof-of-stake__ — asks users to prove ownership of a certain amount of cryptocurrency
 * __P2PKH__ — Pay-to-Public-Key-Hash
 
 #### Q
 #### R
+
+* __Ropsten__ — public Ethereum testnet
+
 #### S
 
 * __Satoshi Nakamoto__ — name used by the person or people who designed Bitcoin and created its original reference implementation
@@ -113,6 +126,8 @@ A list of blockchain and cryptocurrency resources
 * __SVP__ — Simplified Payment Verification
 * __smart property__ — the ownership of an underlying physical device
 * __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules
+* __shannon__ — ether’s denominations (`10^9` wei)
+* __szabo__ — ether’s denominations (`10^12` wei)
 
 #### T
 #### U
@@ -142,8 +157,8 @@ A list of blockchain and cryptocurrency resources
 
 ### Books
 
-* [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388) — Andreas M. Antonopoulos (2nd edition, 2017)
-* [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940) — Andreas M. Antonopoulos,  Gavin Wood (1nd edition, 2018)
+* [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388) — Andreas M. Antonopoulos (2nd edition, 2017, [git repo](https://github.com/bitcoinbook/bitcoinbook))
+* [Mastering Ethereum](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940) — Andreas M. Antonopoulos,  Gavin Wood (1nd edition, 2018, [git repo](https://github.com/ethereumbook/ethereumbook))
 * [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X) — Nathaniel Popper (2016)
 * [The Age of Cryptocurrency](https://www.amazon.com/Age-Cryptocurrency-Blockchain-Challenging-Economic/dp/1250081556) — Michael J. Casey, Paul Vigna (2016)
 * [Blockchain Revolution](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133) — Don Tapscott, Alex Tapscott (2016)
@@ -191,3 +206,4 @@ A list of blockchain and cryptocurrency resources
 * [poloniex.com](http://poloniex.com)
 * [coinbase.com](http://coinbase.com)
 * [blockchain.info](http://blockchain.info)
+* [ethgasstation.info](https://ethgasstation.info)
