@@ -1,7 +1,10 @@
-# Blockchain & Cryptocurrency
+<div align="center">
+<img src="https://github.com/alexprut/Blockchain-Cryptocurrency/raw/master/Blockchain-Cryptocurrency-logo.png" width="500" height="auto"/>
+<h1>Blockchain & Cryptocurrency</h1>
 
-A list of blockchain and cryptocurrency resources
-
+<p>A list of blockchain and cryptocurrency resources</p>
+</div>
+<br />
 
 ## Table of Contents
 
