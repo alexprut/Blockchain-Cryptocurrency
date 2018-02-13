@@ -51,7 +51,7 @@
 
 #### B
 
-* __babbage__ — ether’s denominations (`10^3` wei)
+* __babbage__ — ether’s denominations (`10^3` [wei](#w))
 * __BCH__ — Bitcoin Cash
 * __BIP__ — Bitcoin Improvement Proposals
 * __blockchain__ — a distributed p2p database
@@ -72,7 +72,10 @@
 * __Ethereum__ — The Ethereum network
 * __ether__ — the Ethereum currency
 * __ETH__ — the Ethereum currency
+* __ERE__ — Ethereum Runtime Environment
 * __EVM__ — Ethereum Virtual Machine
+* __EVM Code__ — the bytecode that the [EVM](#e) can natively execute
+* __EVM Assembly__ — the human-readable form of [EVM Code](#e)
 * __EOA__ — Externally Owned Account
 * __EIP__ — Ethereum Improvement Proposals
 * __ECDSA__ — Elliptic Curve Digital Signature Algorithm
@@ -81,22 +84,26 @@
 
 #### F
 
-* __finney__ — ether’s denominations (`10^15` wei)
+* __Frontier__ — is the first live release of the Ethereum network
+* __finney__ — ether’s denominations (`10^15` [wei](#w))
 
 #### G
 
 * __gas__ — a virtual currency used in Ethereum to constrain computation of smart contracts, the fundamental network cost unit
 * __genesis block__ — the first block in the blockchain
 * __Geth__ — an implementation of Ethereum written in the Go programming language
-* __grand__ — ether’s denominations (`10^21` wei)
+* __grand__ — ether’s denominations (`10^21` [wei](#w))
 
 #### H
+
+* __Homestead__ — release of the Ethereum network (successor of [Frontier](#f))
+
 #### I
 #### J
 #### K
 #### L
 
-* __lovelace__ — ether’s denominations (`10^6` wei)
+* __lovelace__ — ether’s denominations (`10^6` [wei](#w))
 
 #### M
 
@@ -129,8 +136,8 @@
 * __SVP__ — Simplified Payment Verification
 * __smart property__ — the ownership of an underlying physical device
 * __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules
-* __shannon__ — ether’s denominations (`10^9` wei)
-* __szabo__ — ether’s denominations (`10^12` wei)
+* __shannon__ — ether’s denominations (`10^9` [wei](#w))
+* __szabo__ — ether’s denominations (`10^12` [wei](#w))
 
 #### T
 #### U
@@ -180,6 +187,7 @@
 ### Other
 
 * [CoinGecko](https://www.coingecko.com)
+* [coinmarketcap.com](https://coinmarketcap.com/)
 * [Ethereum 101](http://ethereum101.org/)
 * [Bitcoin](https://bitcoin.org)
 * [Ethereum](https://www.ethereum.org/)
