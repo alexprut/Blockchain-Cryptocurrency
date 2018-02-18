@@ -47,6 +47,7 @@
 
 #### A
 
+* __addess__ — encoded base58check version of a public key 160-bit hash
 * __account__ — object containing an address, balance and nonce, and optional storage and code. An account can be a contract account or an EOA.
 
 #### B
@@ -54,18 +55,27 @@
 * __babbage__ — ether’s denominations (`10^3` [wei](#w))
 * __BCH__ — Bitcoin Cash
 * __BIP__ — Bitcoin Improvement Proposals
-* __blockchain__ — a distributed p2p database
+* __blockchain__ — a distributed p2p database, a list of validated [blocks](#b)
 * __BTC__ — Bitcoin
+* __block__ — a group of transactions
+* __Byzantine Generals Problem__ — 
+* __bitcoin__ — 
+
 
 #### C
 
+* __coinbase__ — field used as the sole input for coinbase transactions
 * __coinbase transaction__ — the first transaction in a block, contains the reward for the miner, here the new bitcoin is created and added in the supply
 * __cold storage__ — keeping a reserve of bitcoin offline private keys are created and stored in a secure offline environment
 * __colored coins__ — using on-blockchain digital assets to represent custom currencies and financial instrument
+* __consensus__ — 
 
 #### D
 
 * __DAO__ — decentralized autonomous organizations
+* __difficulty__ — how much computation is required to produce a proof of work
+* __difficulty retargeting__ — network-wide recalculation of the difficulty, occurs once every 2.016 blocks
+* __double spending__ — a problem that should be avoided, that is successfully spending some money more than once
 
 #### E
 
@@ -86,6 +96,7 @@
 
 * __Frontier__ — is the first live release of the Ethereum network
 * __finney__ — ether’s denominations (`10^15` [wei](#w))
+* __fees__ — sender of a transaction often includes a fee to the network for processing the requested transaction
 
 #### G
 
@@ -97,12 +108,17 @@
 #### H
 
 * __Homestead__ — release of the Ethereum network (successor of [Frontier](#f))
+* __hard fork__ — a permanent divergence in the blockchain
+* __hardware wallet__ — special type of bitcoin wallet which stores the user’s private keys in a secure hardware device
+* __hash__ — digital fingerprint of some binary input
+* __HTLC__ — Hashed TimeLock Contract
 
 #### I
 #### J
 #### K
 #### L
 
+* __Lightning Networks__ — 
 * __lovelace__ — ether’s denominations (`10^6` [wei](#w))
 
 #### M
@@ -110,6 +126,9 @@
 * __miner__ — network node that finds valid proof of work for new blocks
 * __mempool__ — collection of all transaction data in a block that have been verified by bitcoin nodes but not yet confirmed
 * __message__ — internal transaction that is never serialized and only sent within the EVM
+* __merkle root__ — 
+* __merkle tree__ — 
+* __multisignature__ — 
 
 #### N
 #### O
@@ -119,8 +138,10 @@
 #### P
 
 * __Parity__ — an implementation of Ethereum written in the Rust programming language
-* __proof-of-stake__ — asks users to prove ownership of a certain amount of cryptocurrency
+* __Proof-of-Stake__ — asks users to prove ownership of a certain amount of cryptocurrency
+* __Proof-of-Work__ — 
 * __P2PKH__ — Pay-to-Public-Key-Hash
+* __P2WPKH__ — Pay-to-Witness-Public-Key-Hash
 
 #### Q
 #### R
@@ -138,8 +159,13 @@
 * __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules
 * __shannon__ — ether’s denominations (`10^9` [wei](#w))
 * __szabo__ — ether’s denominations (`10^12` [wei](#w))
+* __Segregated Witness__ — a proposed upgrade to the Bitcoin protocol which technological innovation separates signature data from bitcoin transactions
+* __soft fork__ — 
 
 #### T
+
+* __Turing completeness__ — a program language is that can run any program that a Turing machine can run
+
 #### U
 
 * __UTXO__ — Unspent Transaction Output
