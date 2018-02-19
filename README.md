@@ -101,6 +101,9 @@
 #### I
 #### J
 #### K
+
+* __Kovan__ — public Ethereum testnet
+
 #### L
 
 * __lovelace__ — ether’s denominations (`10^6` [wei](#w))
@@ -110,6 +113,7 @@
 * __miner__ — network node that finds valid proof of work for new blocks
 * __mempool__ — collection of all transaction data in a block that have been verified by bitcoin nodes but not yet confirmed
 * __message__ — internal transaction that is never serialized and only sent within the EVM
+* __Morden__ — public Ethereum testnet
 
 #### N
 #### O
@@ -126,6 +130,7 @@
 #### R
 
 * __Ropsten__ — public Ethereum testnet
+* __Rinkeby__ — public Ethereum testnet
 
 #### S
 
@@ -218,3 +223,8 @@
 * [coinbase.com](http://coinbase.com)
 * [blockchain.info](http://blockchain.info)
 * [ethgasstation.info](https://ethgasstation.info)
+* [ethstats.net](https://ethstats.net/)
+* [blockseer.com](https://www.blockseer.com/)
+* [btc.com](https://btc.com)
+* [blockchair.com](https://blockchair.com/)
+* [bitcointalk.org](https://bitcointalk.org/)
