@@ -55,7 +55,7 @@
 * __babbage__ — ether’s denominations (`10^3` [wei](#w))
 * __BCH__ — Bitcoin Cash
 * __BIP__ — Bitcoin Improvement Proposals
-* __blockchain__ — a distributed p2p database, a list of validated [blocks](#b)
+* __blockchain__ — a distributed p2p database (public or private) containing a list of validated [blocks](#b)
 * __BTC__ — Bitcoin
 * __block__ — a group of transactions
 * __Byzantine Generals Problem__ — 
@@ -195,6 +195,7 @@
 * [Ethereum: Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) — Leslie Lamport
 * [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) — Leslie Lamport
+* [Distributed Snapshots: Determining Global States of Distributed Systems](https://citemaster.net/get/dca2d7de-5ea6-11e6-95ba-00163e009cc7/10.1.1.119.7694.pdf) — Leslie Lamport, Mani Chandy
 
 ### Books
 
