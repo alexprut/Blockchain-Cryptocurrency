@@ -13,6 +13,9 @@
 - [Books](#books)
 - [Courses](#courses)
 - [Documentaries](#documentaries)
+- [News](#news)
+- [Exchanges](#exchanges)
+- [Explorers](#explorers)
 - [Other](#other)
 
 
@@ -216,6 +219,30 @@
 
 * [Banking on Bitcoin](https://www.netflix.com/title/80154500)
 
+### News
+
+* [bitcointalk.org](https://bitcointalk.org/)
+* [Coindesk](https://www.coindesk.com)
+* [Bloomberg Crypto](https://www.bloomberg.com/crypto)
+
+### Exchanges
+
+* [poloniex.com](http://poloniex.com)
+* [coinbase.com](http://coinbase.com)
+* [bitfinex.com](http://bitfinex.com)
+* [bitstamp.net](http://bitstamp.net)
+* [bittrex.com](http://bittrex.com)
+* [gdax.com](http://gdax.com)
+* [gemini.com](http://gemini.com)
+* [kraken.com](http://kraken.com)
+* [bithumb.com](http://bithumb.com)
+
+### Explorers
+
+* [blockchain.com](http://blockchain.com)
+* [btc.com](https://btc.com)
+* [etherscan.io](http://etherscan.io)
+
 ### Other
 
 * [CoinGecko](https://www.coingecko.com)
@@ -226,32 +253,17 @@
 * [P2SH](https://p2sh.info)
 * [Bitcoin Resources](http://lopp.net/bitcoin.html)
 * [Bitnodes: Global Bitcoin Nodes Distribution](https://bitnodes.earn.com/)
-* [Coindesk](https://www.coindesk.com)
 * [bitcoin.com](http://bitcoin.com)
 * [bitcoin.org](http://bitcoin.org)
-* [bitfinex.com](http://bitfinex.com)
 * [bitgo.com](http://bitgo.com)
-* [bithumb.com](http://bithumb.com)
 * [bitpay.com](http://bitpay.com)
-* [bitstamp.net](http://bitstamp.net)
-* [bittrex.com](http://bittrex.com)
-* [blockchain.com](http://blockchain.com)
 * [circle.com](http://circle.com)
 * [copay.io](http://copay.io)
-* [etherscan.io](http://etherscan.io)
-* [gdax.com](http://gdax.com)
-* [gemini.com](http://gemini.com)
-* [kraken.com](http://kraken.com)
 * [ledgerwallet.com](http://ledgerwallet.com)
 * [myetherwallet.com](http://myetherwallet.com)
 * [trezor.io](http://trezor.io)
 * [xapo.com](http://xapo.com)
-* [poloniex.com](http://poloniex.com)
-* [coinbase.com](http://coinbase.com)
-* [blockchain.info](http://blockchain.info)
 * [ethgasstation.info](https://ethgasstation.info)
 * [ethstats.net](https://ethstats.net/)
 * [blockseer.com](https://www.blockseer.com/)
-* [btc.com](https://btc.com)
 * [blockchair.com](https://blockchair.com/)
-* [bitcointalk.org](https://bitcointalk.org/)
