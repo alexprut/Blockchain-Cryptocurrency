@@ -268,3 +268,4 @@
 * [blockseer.com](https://www.blockseer.com/)
 * [blockchair.com](https://blockchair.com/)
 * [cryptocompare.com](https://www.cryptocompare.com/)
+* [cryptowat.ch](https://cryptowat.ch/)
