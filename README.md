@@ -62,7 +62,7 @@
 * __BTC__ — Bitcoin
 * __block__ — a group of transactions
 * __Byzantine Generals Problem__ — 
-* __bitcoin__ — 
+* __bitcoin__ — symbol ฿ or ₿
 
 
 #### C
@@ -83,7 +83,7 @@
 #### E
 
 * __Ethereum__ — The Ethereum network
-* __ether__ — the Ethereum currency
+* __ether__ — the Ethereum currency (symbol Ξ)
 * __ETH__ — the Ethereum currency
 * __ERE__ — Ethereum Runtime Environment
 * __EVM__ — Ethereum Virtual Machine
