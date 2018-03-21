@@ -269,3 +269,4 @@
 * [blockchair.com](https://blockchair.com/)
 * [cryptocompare.com](https://www.cryptocompare.com/)
 * [cryptowat.ch](https://cryptowat.ch/)
+* [cryptozombies.io](https://cryptozombies.io/)
