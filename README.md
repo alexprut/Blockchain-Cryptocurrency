@@ -247,7 +247,6 @@
 
 * [CoinGecko](https://www.coingecko.com)
 * [coinmarketcap.com](https://coinmarketcap.com/)
-* [Ethereum 101](http://ethereum101.org/)
 * [Bitcoin](https://bitcoin.org)
 * [Ethereum](https://www.ethereum.org/)
 * [P2SH](https://p2sh.info)
