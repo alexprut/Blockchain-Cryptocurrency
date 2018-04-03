@@ -224,6 +224,7 @@
 * [bitcointalk.org](https://bitcointalk.org/)
 * [Coindesk](https://www.coindesk.com)
 * [Bloomberg Crypto](https://www.bloomberg.com/crypto)
+* [bitcoinmagazine.com](https://bitcoinmagazine.com/)
 
 ### Exchanges
 
@@ -269,3 +270,8 @@
 * [cryptocompare.com](https://www.cryptocompare.com/)
 * [cryptowat.ch](https://cryptowat.ch/)
 * [cryptozombies.io](https://cryptozombies.io/)
+* [bitinfocharts.com](https://bitinfocharts.com/)
+* [bravenewcoin.com](https://bravenewcoin.com/)
+* [bitinfocharts.com](https://bitinfocharts.com/)
+* [coincap.io](http://coincap.io)
+* [exchangewar.info](https://exchangewar.info)
