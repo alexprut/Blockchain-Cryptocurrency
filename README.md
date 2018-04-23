@@ -52,6 +52,7 @@
 
 * __addess__ — encoded base58check version of a public key 160-bit hash
 * __account__ — object containing an address, balance and nonce, and optional storage and code. An account can be a contract account or an EOA.
+* __ABI__ — Application Binary Interface, used in Ethereum
 
 #### B
 
@@ -79,6 +80,7 @@
 * __difficulty__ — how much computation is required to produce a proof of work
 * __difficulty retargeting__ — network-wide recalculation of the difficulty, occurs once every 2.016 blocks
 * __double spending__ — a problem that should be avoided, that is successfully spending some money more than once
+* __DApps__ — decentralized applications that run on a P2P network of computers
 
 #### E
 
@@ -100,6 +102,7 @@
 * __Frontier__ — is the first live release of the Ethereum network
 * __finney__ — ether’s denominations (`10^15` [wei](#w))
 * __fees__ — sender of a transaction often includes a fee to the network for processing the requested transaction
+* __fungible token__ — 
 
 #### G
 
@@ -138,6 +141,9 @@
 * __multisignature__ — 
 
 #### N
+
+* __non fungible token__ — 
+
 #### O
 
 * __orphans__ — blocks that do not have a known parent in the knows chain
@@ -155,6 +161,7 @@
 
 * __Ropsten__ — public Ethereum testnet
 * __Rinkeby__ — public Ethereum testnet
+* __RLP__ — Recursive Length Prefix, encoding scheme in Ethereum
 
 #### S
 
@@ -164,7 +171,7 @@
 * __Solidity__ — programming language with syntax that is similar to Javascript, C++ or Java, most frequently used language for Ethereum smart contracts
 * __SVP__ — Simplified Payment Verification
 * __smart property__ — the ownership of an underlying physical device
-* __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules
+* __smart contracts__ — complex applications involving having digital assets being directly controlled by a piece of code implementing arbitrary rules, more precisely a computer program that, given certain conditions, can enforce the execution of a set of instructions without third party interference
 * __shannon__ — ether’s denominations (`10^9` [wei](#w))
 * __szabo__ — ether’s denominations (`10^12` [wei](#w))
 * __Segregated Witness__ — a proposed upgrade to the Bitcoin protocol which technological innovation separates signature data from bitcoin transactions
@@ -173,6 +180,7 @@
 #### T
 
 * __Turing completeness__ — a program language is that can run any program that a Turing machine can run
+* __token__ — 
 
 #### U
 
@@ -275,3 +283,4 @@
 * [bitinfocharts.com](https://bitinfocharts.com/)
 * [coincap.io](http://coincap.io)
 * [exchangewar.info](https://exchangewar.info)
+* [dappinsight.com](https://dappinsight.com/)
