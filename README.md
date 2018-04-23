@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+- [Mindmap](#mindmap)
 - [Jargon](#jargon)
 - [Papers](#papers)
 - [Books](#books)
@@ -18,6 +19,9 @@
 - [Explorers](#explorers)
 - [Other](#other)
 
+### Mindmap
+
+![Mindmap](mindmap.png)
 
 ### Jargon
 
