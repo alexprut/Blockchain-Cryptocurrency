@@ -211,6 +211,8 @@
 * [Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) — Leslie Lamport
 * [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) — Leslie Lamport
 * [Distributed Snapshots: Determining Global States of Distributed Systems](https://citemaster.net/get/dca2d7de-5ea6-11e6-95ba-00163e009cc7/10.1.1.119.7694.pdf) — Leslie Lamport, Mani Chandy
+* [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) — Leslie Lamport
+* [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf) — Leslie Lamport
 
 ### Books
 
