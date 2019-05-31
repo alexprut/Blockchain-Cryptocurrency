@@ -85,6 +85,8 @@
 * __difficulty retargeting__ — network-wide recalculation of the difficulty, occurs once every 2.016 blocks
 * __double spending__ — a problem that should be avoided, that is successfully spending some money more than once
 * __DApps__ — decentralized applications that run on a P2P network of computers
+* __DEX__ — decentralized cryptocurrency exchange
+* __DeFi__ — Decentralized Finance
 
 #### E
 
@@ -239,6 +241,7 @@
 * [Coindesk](https://www.coindesk.com)
 * [Bloomberg Crypto](https://www.bloomberg.com/crypto)
 * [bitcoinmagazine.com](https://bitcoinmagazine.com/)
+* [theblockcrypto.com](https://www.theblockcrypto.com)
 
 ### Exchanges
 
@@ -290,3 +293,5 @@
 * [coincap.io](http://coincap.io)
 * [exchangewar.info](https://exchangewar.info)
 * [dappinsight.com](https://dappinsight.com/)
+* [crypto51.app](https://www.crypto51.app/)
+* [stateofthedapps.com](https://www.stateofthedapps.com/)
