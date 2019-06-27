@@ -217,6 +217,7 @@
 * [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf) — Leslie Lamport
 * [Zerocash: Decentralized Anonymous Payments from Bitcoin](http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf)
 * [Zerocash: Decentralized Anonymous Payments from Bitcoin (extended version)](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
+* [The Libra Blockchain](https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf)
 
 ### Books
 
