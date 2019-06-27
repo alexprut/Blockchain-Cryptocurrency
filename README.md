@@ -220,6 +220,7 @@
 * [The Libra Blockchain](https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf)
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
 * [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/bitcoin.pdf)
+* [An Empirical Analysis of Traceability in the Monero Blockchain](https://www.degruyter.com/downloadpdf/j/popets.2018.2018.issue-3/popets-2018-0025/popets-2018-0025.pdf)
 
 ### Books
 
