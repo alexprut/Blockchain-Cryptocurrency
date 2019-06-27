@@ -219,6 +219,7 @@
 * [Zerocash: Decentralized Anonymous Payments from Bitcoin (extended version)](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
 * [The Libra Blockchain](https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf)
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
+* [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/bitcoin.pdf)
 
 ### Books
 
