@@ -215,6 +215,8 @@
 * [Distributed Snapshots: Determining Global States of Distributed Systems](https://citemaster.net/get/dca2d7de-5ea6-11e6-95ba-00163e009cc7/10.1.1.119.7694.pdf) — Leslie Lamport, Mani Chandy
 * [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) — Leslie Lamport
 * [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf) — Leslie Lamport
+* [Zerocash: Decentralized Anonymous Payments from Bitcoin](http://zerocash-project.org/media/pdf/zerocash-oakland2014.pdf)
+* [Zerocash: Decentralized Anonymous Payments from Bitcoin (extended version)](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
 
 ### Books
 
