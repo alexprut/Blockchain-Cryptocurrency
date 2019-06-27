@@ -222,6 +222,8 @@
 * [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/bitcoin.pdf)
 * [An Empirical Analysis of Traceability in the Monero Blockchain](https://www.degruyter.com/downloadpdf/j/popets.2018.2018.issue-3/popets-2018-0025/popets-2018-0025.pdf)
 * [An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf)
+* [SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf)
+* [You sank my battleship! A case study to evaluate state channels as a scaling solution for cryptocurrencies](https://nms.kcl.ac.uk/patrick.mccorry/battleship.pdf)
 
 ### Books
 
