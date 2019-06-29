@@ -230,6 +230,7 @@
 * [The Bitcoin Backbone Protocol: Analysis and Applications](https://allquantor.at/blockchainbib/pdf/garay2015bitcoin.pdf)
 * [Programming Satan’s Computer](https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf)
 * [Bitcoin Redux](https://www.cl.cam.ac.uk/~rja14/Papers/bitcoin-redux.pdf)
+* [Deanonymization of Hidden Transactions in Zcash](https://cryptolux.org/images/d/d9/Zcash.pdf)
 
 ### Books
 
