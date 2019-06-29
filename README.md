@@ -315,3 +315,5 @@
 * [dappinsight.com](https://dappinsight.com/)
 * [crypto51.app](https://www.crypto51.app/)
 * [stateofthedapps.com](https://www.stateofthedapps.com/)
+* [Blockchain Getting Started](https://github.com/oleiba/blockchain-getting-started/blob/master/README.md)
+* [Crypto Archives](https://github.com/multicoincapital/crypto-archives)
