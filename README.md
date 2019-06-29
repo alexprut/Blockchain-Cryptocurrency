@@ -227,6 +227,7 @@
 * [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)
 * [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
 * [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf)
+* [The Bitcoin Backbone Protocol: Analysis and Applications](https://allquantor.at/blockchainbib/pdf/garay2015bitcoin.pdf)
 
 ### Books
 
