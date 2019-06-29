@@ -234,6 +234,7 @@
 * [Deanonymization and linkability of cryptocurrency transactions based on network analysis](https://orbilu.uni.lu/bitstream/10993/39724/1/biryukov-tikhomirov-deanonymization-and-linkability.pdf)
 * [Bitcoin over Tor isn’t a good idea](https://arxiv.org/pdf/1410.6079.pdf)
 * [BitML: A Calculus for Bitcoin Smart Contracts](https://eprint.iacr.org/2018/122.pdf)
+* [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 
 ### Books
 
