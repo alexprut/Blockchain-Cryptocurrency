@@ -233,6 +233,7 @@
 * [Deanonymization of Hidden Transactions in Zcash](https://cryptolux.org/images/d/d9/Zcash.pdf)
 * [Deanonymization and linkability of cryptocurrency transactions based on network analysis](https://orbilu.uni.lu/bitstream/10993/39724/1/biryukov-tikhomirov-deanonymization-and-linkability.pdf)
 * [Bitcoin over Tor isn’t a good idea](https://arxiv.org/pdf/1410.6079.pdf)
+* [BitML: A Calculus for Bitcoin Smart Contracts](https://eprint.iacr.org/2018/122.pdf)
 
 ### Books
 
