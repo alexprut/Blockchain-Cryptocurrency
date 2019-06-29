@@ -225,6 +225,7 @@
 * [SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf)
 * [You sank my battleship! A case study to evaluate state channels as a scaling solution for cryptocurrencies](https://nms.kcl.ac.uk/patrick.mccorry/battleship.pdf)
 * [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)
+* [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
 
 ### Books
 
