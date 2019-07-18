@@ -226,6 +226,7 @@
 * [You sank my battleship! A case study to evaluate state channels as a scaling solution for cryptocurrencies](https://nms.kcl.ac.uk/patrick.mccorry/battleship.pdf)
 * [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)
 * [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf)
+* [PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake](https://decred.org/research/king2012.pdf)
 * [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf)
 * [The Bitcoin Backbone Protocol: Analysis and Applications](https://allquantor.at/blockchainbib/pdf/garay2015bitcoin.pdf)
 * [Programming Satan’s Computer](https://www.cl.cam.ac.uk/~rja14/Papers/satan.pdf)
